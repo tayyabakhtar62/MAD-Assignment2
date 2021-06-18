@@ -1,0 +1,91 @@
+{
+  "semesters": [
+    {
+      "id": "0",
+      "name": "Semester 1",
+      "courses": [
+        {
+          "id": "c1",
+          "name": "GPA",
+          "grade": "1"
+        }
+
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Semester 2",
+      "courses": [
+        {
+          "id": "c7",
+          "name": "GPA",
+          "grade": "1"
+        }
+
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Semester 3",
+      "courses": [
+        {
+          "id": "c13",
+          "name": "GPA",
+          "grade": "1"
+        }
+
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Semester 4",
+      "courses": [
+        {
+          "id": "c18",
+          "name": "GPA",
+          "grade": "2"
+        }
+
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Semester 5",
+      "courses": [
+        {
+          "id": "c18",
+          "name": "GPA",
+          "grade": "2"
+        }
+
+      ]
+    },
+
+    {
+      "id": "5",
+      "name": "Semester 6",
+      "courses": [
+        {
+          "id": "c18",
+          "name": "GPA",
+          "grade": "2"
+        }
+
+      ]
+    },
+
+    {
+      "id": "6",
+      "name": "Semester 7",
+      "courses": [
+        {
+          "id": "c18",
+          "name": "GPA",
+          "grade": "2"
+        }
+
+      ]
+    }
+
+  ]
+}
